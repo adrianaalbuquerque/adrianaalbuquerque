@@ -3,8 +3,7 @@
 **`Desenvolvedora Backend (mas se precisar, é frontend também haha)`**
 
 Me chamo Adriana Albuquerque. Sou natural de Recife, mas foi na Paraíba que cresci e construí quase toda minha vida acadêmica e profissional. Formada em 2023 em Sistemas para Internet pelo IFPB, minha trajetória com desenvolvimento de software e ciência de dados começou algum tempo antes, em 2021, unindo a lógica da programação com a análise estratégica dos dados. Antes disso, cursei Economia na UFPB, entre 2015 e 2019, mas não levei o curso até o fim porque em 2019 decidi mudar o rumo da minha vida profissional e abraçar a tecnologia como paixão e propósito.
-Tenho uma carreira construída na interseção entre sistemas legados e tecnologias modernas, utilizando ferramentas como Delphi, .NET Framework e DevExpress, e linguagens como Python, Java e frameworks modernos como Vue.js. Minha fluência em inglês me permite abrir portas para projetos com maiores alcances, não limitando minha perspectiva de mundo!
-Mais do que escrever código, vejo minha profissão como um constante exercício de inovação, colaboração e aprendizado. Sou movida pela busca de soluções que façam a diferença, com um olhar atento para a praticidade e a eficiência, sempre mantendo a empatia e o bom humor como aliados no dia a dia.
+Tenho uma carreira construída na interseção entre sistemas legados e tecnologias modernas, utilizando ferramentas como Delphi, .NET Framework e DevExpress, e linguagens como Python, Java e frameworks modernos como Vue.js. Mais do que escrever código, vejo minha profissão como um constante exercício de inovação, colaboração e aprendizado. Sou movida pela busca de soluções que façam a diferença, com um olhar atento para a praticidade e a eficiência, sempre mantendo a empatia e o bom humor como aliados no dia a dia.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/adriana-albuquerque-45019b123/">
